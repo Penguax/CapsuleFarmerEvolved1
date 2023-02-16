@@ -102,3 +102,5 @@ class DataProviderThread(Thread):
             self.sharedData.setTimeUntilNextMatch("None")
         except:
             self.sharedData.setTimeUntilNextMatch("None")
+
+            
